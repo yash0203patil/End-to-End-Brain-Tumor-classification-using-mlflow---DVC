@@ -13,4 +13,5 @@
 8. update the main.py
 9. update the dvc.yaml
 
-https://drive.google.com/file/d/1TbobRjUTYQmVgoNq7yQ_ZdSXk2pKOZMZ/view
+Dataset Link:
+https://drive.google.com/file/d/1bRKlCsqYpMzwTQDbBFCYIHfENSq4JQnv/view?usp=drivesdk
