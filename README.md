@@ -12,3 +12,6 @@
 7. update the pipeline
 8. update the main.py
 9. update the dvc.yaml
+
+Dataset Link:
+https://drive.google.com/file/d/1bRKlCsqYpMzwTQDbBFCYIHfENSq4JQnv/view?usp=drivesdk
