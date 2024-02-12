@@ -12,3 +12,5 @@
 7. update the pipeline
 8. update the main.py
 9. update the dvc.yaml
+
+https://drive.google.com/file/d/1TbobRjUTYQmVgoNq7yQ_ZdSXk2pKOZMZ/view
