@@ -53,3 +53,14 @@ To get started with our project, follow these steps:
 We welcome feedback, bug reports, and contributions from the community. Feel free to open issues, submit pull requests, or reach out to us with any questions or suggestions.
 
 Happy coding! 🚀
+
+##### Dagshub
+
+[dagshub](https://dagshub.com/)
+
+MLFLOW_TRACKING_URI=https://dagshub.com/yash0203patil/End-to-End-Brain-Tumor-classification-using-mlflow---DVC.mlflow \
+MLFLOW_TRACKING_USERNAME=yash0203patil \
+MLFLOW_TRACKING_PASSWORD=f86b22306c3d885d9610d70440e483fb746de9eb \
+python script.py
+
+
