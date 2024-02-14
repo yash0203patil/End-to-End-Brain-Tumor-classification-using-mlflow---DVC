@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/yash/MLFLOW%20and%20DVC/End-to-End-Brain-Tumor-classification-using-mlflow---DVC/mlruns/0/11bf5bfceaba4dcbbf0c21625210f02e/artifacts
+end_time: 1707890081253
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11bf5bfceaba4dcbbf0c21625210f02e
+run_name: thundering-snail-447
+run_uuid: 11bf5bfceaba4dcbbf0c21625210f02e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707890069898
+status: 3
+tags: []
+user_id: hp
